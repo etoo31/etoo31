@@ -8,7 +8,7 @@
 <img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefashrafeissa@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefashrafeissa@gmail.com">
 </a>
  <a href="https://codeforces.com/profile/etoo?csrf_token=1983f4038e67ded88893e56f8251ad88" target="_blank">
- <img alt="CodeForces Account" src="https://img.shields.io/badge/CodeForces-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+ <img alt="CodeForces Account" src="https://img.shields.io/badge/CodeForces-%23E4405F.svg?&style=for-the-badge&logo=codeforces&logoColor=white">
 
 </a>
 
