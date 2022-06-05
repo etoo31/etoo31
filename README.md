@@ -4,11 +4,11 @@
 <img alt="Youssef's LinkdeIn" src="https://img.shields.io/badge/Youssef Ashraf-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:youssefkfarouk@gmail.com" target="_blank">
-<img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com">
+<a href="mailto:youssefashrafeissa@gmail.com" target="_blank">
+<img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefashrafeissa@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefashrafeissa@gmail.com">
 </a>
- <a href="https://www.instagram.com/youssefkhaled08/" target="_blank">
- <img alt="Youssef's Instagram" src="https://img.shields.io/badge/youssefkhaled08_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+ <a href="https://codeforces.com/profile/etoo?csrf_token=1983f4038e67ded88893e56f8251ad88" target="_blank">
+ <img alt="CodeForces Account" src="https://img.shields.io/badge/CodeForces-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 
 </a>
 
@@ -16,11 +16,10 @@
 <br />
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
-Hi there, I'm <b>Youssef Khaled</b>, a junior CS student at Faculty of Computer Science and Information Technology at Ain-Shams University from Egypt.
+Hi there, I'm <b>Youssef Ashraf</b>, a junior CS student at Faculty of Computer Science and Information Technology at Ain-Shams University from Egypt.
 
-- 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view" target="_blank">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my first year as a CS student for developing a clone of <a href="https://github.com/youssefkhaled08/Chicken-Invaders">Chicken Invaders</a> game with my team.   
+- 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view" target="_blank">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my first year as a CS student for developing a clone of <a href="https://github.com/etoo31/Chicken-Invaders">Chicken Invaders</a> game with my team.   
 - 👨🏽‍💻 I'm currently working on learning Algorithms and Data Structures in more depth.
-- 👨🏽‍💻 I’m looking forward to collaborate on Open-Source projects.
 
 **Languages and Tools:**  
 
