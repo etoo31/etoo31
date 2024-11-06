@@ -20,8 +20,8 @@ Hi there, I'm <b>Youssef Ashraf</b>, Fresh graduate with a cumulative GPA of <b>
 <br />
 Following graduation, I completed my military service, where I expanded my technical expertise by learning Node.js and building two projects utilizing this technology. Additionally, I served as a coding instructor at Almentor, where I helped shape aspiring programmers. I am eager to continue learning and growing professionally as a software engineer, with a keen interest in mastering new technologies and taking on impactful projects.
 
-<!-->- 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view" target="_blank">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my first year as a CS student for developing a clone of <a href="https://github.com/etoo31/Chicken-Invaders">Chicken Invaders</a> game with my team.   
-<!-->- 👨🏽‍💻 I'm currently working on learning Algorithms and Data Structures in more depth.
+<!--- 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view" target="_blank">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my first year as a CS student for developing a clone of <a href="https://github.com/etoo31/Chicken-Invaders">Chicken Invaders</a> game with my team.   
+--- 👨🏽‍💻 I'm currently working on learning Algorithms and Data Structures in more depth.-->
 
 <br />
 
