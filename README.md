@@ -28,7 +28,7 @@ Following graduation, I completed my military service, where I expanded my techn
 
 <br />
 <h3> Languages and Tools: </h3>
-
+<div>
 <code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><code>
 <code><img height="20" alt="Java" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="20" alt= "Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -40,7 +40,7 @@ Following graduation, I completed my military service, where I expanded my techn
 <code><img height="20" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
  <code><img height="20" alt="VScode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="VScode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
- 
+ </div>
 
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=etoo31&count_private=true&show_icons=true&theme=radical )
 
